@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/data/data/com.termux/files/home/.local/share/backgrounds/Wave.jpg' 
